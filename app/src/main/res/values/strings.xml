@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SqaushAppsDemo</string>
+    <string name="report">Report</string>
+    <string name="share">Share</string>
+    <string name="eleanor_pena">Eleanor Pena</string>
+    <string name="eleanor_pena_bio">Persons bio data /n leroum ipsum dolor sit amet, cons</string>
+    <string name="views">Views</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="follow">Follow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
